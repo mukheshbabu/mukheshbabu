@@ -1,6 +1,4 @@
-# mukheshbabu
-
-<h1 align="center">Hi 👋, I'm Mukhesh Babu Yaddanapudi</h1>
+<h1 align="center">Hi 👋, I'm Yaddanapudi Mukhesh Babu</h1>
 <h3 align="center">I'm a Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukheshbabu&label=Profile%20views&color=0e75b6&style=flat" alt="mukheshbabu" /> </p>
