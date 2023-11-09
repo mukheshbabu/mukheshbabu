@@ -40,8 +40,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mukheshbabu&show_icons=true&line_height=21&theme=transparent" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukheshbabu&layout=compact&theme=transparent" alt="languages" height="165">
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukheshbabu&layout=compact&theme=transparent" alt="My-Streak" /> 
-</p>
 <hr>
 
 <div align="center">
