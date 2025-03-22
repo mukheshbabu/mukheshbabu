@@ -89,6 +89,26 @@
 ###
 
 <div align="center">
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mukheshbabu&"
+    alt="mukheshbabu"
+  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=mukheshbabu"
+      alt="mukheshbabu"
+  /></a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/mukheshbabu/count.svg?"  />
 </div>
 
