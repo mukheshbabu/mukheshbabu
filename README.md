@@ -2,11 +2,33 @@
 ## I'm Mukhesh Babu Yaddanapudi
 
 <div align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mukheshbabu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <!-- Instagram -->
   <a href="https://www.instagram.com/mukheshbabuyaddanapudi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/mukheshbabu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/mukheshbabu01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  <!-- Medium -->
+  <a href="https://medium.com/@mukheshbabu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40"    alt="medium logo" />
+  </a>
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/23323836" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
+  </a>
+  <!-- Pinterest -->
+  <a href="https://www.pinterest.com/mukheshbabu01" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pinterest" width="40" height="40"/>
   </a>
 </div>
 
