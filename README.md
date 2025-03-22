@@ -83,13 +83,13 @@
 
 ### My GitHub Stats :
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mukheshbabu&show_icons=true&line_height=21&theme=transparent" 
+    <img src="https://github-readme-stats.vercel.app/api?username=mukheshbabu&show_icons=true&line_height=21&include_all_commits=true" 
          alt="my github stats" height="116" style="vertical-align: middle;"/>
     &nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukheshbabu" 
          alt="mukheshbabu" height="116" style="vertical-align: middle;"/>
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukheshbabu&layout=compact&theme=transparent" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukheshbabu&layout=compact" 
          alt="languages" height="116" style="vertical-align: middle;"/>
 </div>
 
