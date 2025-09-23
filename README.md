@@ -35,7 +35,7 @@
 
 ### About Me:
 - 🏢 I’m a Software Developer at Amdocs, with a B.Tech in Computer Science and Engineering.
-- 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
+- 🤝 I’m always open to collaborating on open-source projects that help me grow my skills and contribute to the developer community.
 - 📫 How to reach me: Above linked socials, feel free to reach me out. || <a href="mailto:mukheshyaddanapudi69@gmail.com">Mail Me!</a>
 
 ### Tech I'm fluent with :
